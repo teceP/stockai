@@ -1,0 +1,681 @@
+{
+  "rows": 10,
+  "os": 0,
+  "page": 1,
+  "total": 10286,
+  "documents": {
+    "D34011507": {
+      "id": "34011507",
+      "last_modified_date": "2023-03-02T00:00:00Z",
+      "admreg": "Europe and Central Asia,Europe and Central Asia",
+      "admreg_key": "119226,119226",
+      "authors": {
+        "0": {
+          "author": "Lela Shanidze"
+        }
+      },
+      "count": "Georgia",
+      "count_key": "82619",
+      "docna": {
+        "0": {
+          "docna": "Georgia - EUROPE AND CENTRAL ASIA- P169117-\n            Energy Supply Reliability and Financial Recovery -\n            Procurement Plan"
+        }
+      },
+      "docty": "Procurement Plan",
+      "docty_key": "739941",
+      "owner": "Infra ECA Energy 1 (IECE1)",
+      "projn": "GE-Energy Supply Reliability And Financial\n            Recovery -- P169117",
+      "subsc": "Energy Transmission and Distribution,ICT Infrastructure,Public Administration - Energy and Extractives,Capital Markets,Other Energy and Extractives",
+      "prdln": "IBRD/IDA",
+      "prdln_key": "639266",
+      "seccl": "Public",
+      "lang": "English",
+      "lang_key": "120701",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_key": "1353855",
+      "entityids": {
+        "entityid": "34011507"
+      },
+      "repnb": "STEP76776",
+      "docdt": "2023-03-02T00:00:00Z",
+      "datestored": "2023-03-02T11:30:11Z",
+      "majdocty": "Project Documents",
+      "majdocty_key": "658102",
+      "display_title": "Georgia - EUROPE AND CENTRAL\n            ASIA- P169117- Energy Supply Reliability and Financial\n            Recovery - Procurement Plan",
+      "disclosure_type": "NA",
+      "pdfurl": "http://documents.worldbank.org/curated/en/099113003022352557/pdf/P1691170bac5270af0a976065b76656e5a9.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/099113003022352557/text/P1691170bac5270af0a976065b76656e5a9.txt",
+      "listing_relative_url": "/projects/documents/2023/03/34011507/georgia-europe-central-asia--p169117--energy-supply-reliability-financial-recovery-procurement-plan",
+      "url_friendly_title": "http://documents.worldbank.org/curated/en/099113003022352557/P1691170bac5270af0a976065b76656e5a9",
+      "new_url": "2023/03/34011507/P1691170bac5270af0a976065b76656e5a9",
+      "ext_pub_date": "2023-03-02T00:00:00Z",
+      "disclstat": "Disclosed",
+      "docm_id": "P169117-bac527dd-a5e7-40af-a976-65b76656e5a9",
+      "chronical_docm_id": "P169117-bac527dd-a5e7-40af-a976-65b76656e5a9",
+      "publishtoextweb_dt": "2023-03-02T00:00:00Z",
+      "versiontyp": "Final",
+      "versiontyp_key": "1309935",
+      "projectid": "P169117",
+      "guid": "099113003022352557",
+      "origu": "Infra ECA Energy 1 (IECE1)",
+      "author_keys": {
+        "0": {
+          "author_key": "NA"
+        }
+      },
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/099113003022352557/P1691170bac5270af0a976065b76656e5a9"
+    },
+    "D34012598": {
+      "id": "34012598",
+      "last_modified_date": "2023-03-02T00:00:00Z",
+      "admreg": "Eastern and Southern Africa,Eastern and Southern Africa",
+      "admreg_key": "1927319,1927319",
+      "authors": {
+        "0": {
+          "author": "Borrowing Agency"
+        }
+      },
+      "count": "Madagascar",
+      "count_key": "82548",
+      "docna": {
+        "0": {
+          "docna": "Resettlement Framework Digital and Energy\n            Connectivity for Inclusion in Madagascar  (DECIM) (P178701)"
+        }
+      },
+      "docty": "Environmental and Social Management Framework",
+      "docty_key": "1747036",
+      "owner": "Infra AFR Energy 1 (IAEE1)",
+      "projn": "MG-Digital And Energy Connectivity For\n            Inclusion In Madagascar  (D -- P178701",
+      "trustfund": "TF0B8252-Madagascar - Strengthening\n            Resilient Energy Connectivity for Inclusion,TF0C0370-Strengthening the Digital\n            Regulator in Madagascar",
+      "trustfund_key": "2151665,2251212",
+      "prdln": "IBRD/IDA",
+      "prdln_key": "639266",
+      "seccl": "Public",
+      "lang": "French",
+      "lang_key": "120702",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_key": "1353855",
+      "entityids": {
+        "entityid": "34012598"
+      },
+      "docdt": "2023-03-02T00:00:00Z",
+      "datestored": "2023-03-02T05:40:27Z",
+      "majdocty": "Project Documents",
+      "majdocty_key": "658102",
+      "display_title": "Resettlement Framework Digital\n            and Energy Connectivity for Inclusion in Madagascar  (DECIM) (P178701)",
+      "disclosure_type": "NA",
+      "pdfurl": "http://documents.worldbank.org/curated/en/099174003022312822/pdf/P1787010fb72770409f580822b3676870f.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/099174003022312822/text/P1787010fb72770409f580822b3676870f.txt",
+      "listing_relative_url": "/projects/documents/2023/03/34012598/resettlement-framework-digital-energy-connectivity-inclusion-madagascar-decim-p178701",
+      "url_friendly_title": "http://documents.worldbank.org/curated/en/099174003022312822/P1787010fb72770409f580822b3676870f",
+      "new_url": "2023/03/34012598/P1787010fb72770409f580822b3676870f",
+      "ext_pub_date": "2023-03-02T00:00:00Z",
+      "disclstat": "Disclosed",
+      "docm_id": "P178701-fb727711-9332-48f4-9f58-822b3676870f",
+      "chronical_docm_id": "P178701-fb727711-9332-48f4-9f58-822b3676870f",
+      "publishtoextweb_dt": "2023-03-02T00:00:00Z",
+      "versiontyp": "Final",
+      "versiontyp_key": "1309935",
+      "projectid": "P178701",
+      "guid": "099174003022312822",
+      "origu": "Infra AFR Energy 1 (IAEE1)",
+      "ml_abstracts": "$^$^$french",
+      "author_keys": {
+        "0": {
+          "author_key": "NA"
+        }
+      },
+      "available_in": "French",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/099174003022312822/P1787010fb72770409f580822b3676870f"
+    },
+    "D34011495": {
+      "id": "34011495",
+      "last_modified_date": "2023-03-02T00:00:00Z",
+      "admreg": "Eastern and Southern Africa,Eastern and Southern Africa",
+      "admreg_key": "1927319,1927319",
+      "authors": {
+        "0": {
+          "author": "Mohamed Djounaid Soilihi"
+        }
+      },
+      "count": "Comoros",
+      "count_key": "82563",
+      "docna": {
+        "0": {
+          "docna": "Comoros - EASTERN AND SOUTHERN AFRICA-\n            P177646- Comoros Solar Energy Access Project - Procurement Plan"
+        }
+      },
+      "docty": "Procurement Plan",
+      "docty_key": "739941",
+      "owner": "Infra AFR Energy 1 (IAEE1)",
+      "projn": "KM-Comoros Solar Energy Access Project -- P177646",
+      "trustfund": "TF0C0672-Comoros : Renewable Energy\n            Integration and Utility Performance Improvem,TF0C0677-Comoros : Renewable Energy\n            Integration and Utility Performance Improve-",
+      "trustfund_key": "2265237,2265242",
+      "prdln": "IBRD/IDA",
+      "prdln_key": "639266",
+      "seccl": "Public",
+      "lang": "English",
+      "lang_key": "120701",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_key": "1353855",
+      "entityids": {
+        "entityid": "34011495"
+      },
+      "repnb": "STEP76768",
+      "docdt": "2023-03-02T00:00:00Z",
+      "datestored": "2023-03-02T09:45:23Z",
+      "majdocty": "Project Documents",
+      "majdocty_key": "658102",
+      "display_title": "Comoros - EASTERN AND SOUTHERN\n            AFRICA- P177646- Comoros Solar Energy Access Project -\n            Procurement Plan",
+      "disclosure_type": "NA",
+      "pdfurl": "http://documents.worldbank.org/curated/en/099094503022336144/pdf/P1776460bfc3f406b091e10ab87e4a37c55.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/099094503022336144/text/P1776460bfc3f406b091e10ab87e4a37c55.txt",
+      "listing_relative_url": "/projects/documents/2023/03/34011495/comoros-eastern-southern-africa--p177646--comoros-solar-energy-access-project-procurement-plan",
+      "url_friendly_title": "http://documents.worldbank.org/curated/en/099094503022336144/P1776460bfc3f406b091e10ab87e4a37c55",
+      "new_url": "2023/03/34011495/P1776460bfc3f406b091e10ab87e4a37c55",
+      "ext_pub_date": "2023-03-02T00:00:00Z",
+      "disclstat": "Disclosed",
+      "docm_id": "P177646-bfc3f4cd-f6ff-446b-91e1-ab87e4a37c55",
+      "chronical_docm_id": "P177646-bfc3f4cd-f6ff-446b-91e1-ab87e4a37c55",
+      "publishtoextweb_dt": "2023-03-02T00:00:00Z",
+      "versiontyp": "Final",
+      "versiontyp_key": "1309935",
+      "projectid": "P177646",
+      "guid": "099094503022336144",
+      "origu": "Infra AFR Energy 1 (IAEE1)",
+      "author_keys": {
+        "0": {
+          "author_key": "NA"
+        }
+      },
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/099094503022336144/P1776460bfc3f406b091e10ab87e4a37c55"
+    },
+    "D34011620": {
+      "id": "34011620",
+      "last_modified_date": "2023-03-02T00:00:00Z",
+      "admreg": "Eastern and Southern Africa,Eastern and Southern Africa",
+      "admreg_key": "1927319,1927319",
+      "authors": {
+        "0": {
+          "author": "Borrowing Agency"
+        }
+      },
+      "count": "Tanzania",
+      "count_key": "82581",
+      "docna": {
+        "0": {
+          "docna": "Revised  Stakeholder Engagement Plan (SEP)\n            Zanzibar Energy Sector Transformation and Access Project (P169561)"
+        }
+      },
+      "docty": "Stakeholder Engagement Plan",
+      "docty_key": "1747035",
+      "owner": "Infra AFR Energy 3 (IAEE3)",
+      "projn": "TZ-Zanzibar Energy Sector Transformation And\n            Access Project -- P169561",
+      "subsc": "Energy Transmission and Distribution,Public Administration - Energy and Extractives,Renewable Energy Solar",
+      "trustfund": "TF0B0718-Zanzibar: Readiness for\n            Renewable Energy and Storage Development,TF0B1482-Zanzibar: Readiness for\n            Renewable Energy and Storage Development,TF0B2555-Zanzibar Readiness for\n            Renewable Energy and Battery Storage,TF0B5659-ZANZIBAR ENERGY SECTOR\n            TRANSFORMATION PROJECT(ZEST) - MDB FEES,TF0B5660-Zanzibar Energy Sector\n            Transformation and Access Project (ZESTA) - CTF,TF0B5747-TANZANIA - ZANZIBAR ENERGY\n            SECTOR TRANSFORMATION AND ACCESS PROJECT(ZES,TF0B9558-Supporting automation and\n            digitalization of the electricity network in",
+      "trustfund_key": "1794591,1837638,1895430,2036199,2036200,2040415,2215445",
+      "prdln": "IBRD/IDA",
+      "prdln_key": "639266",
+      "seccl": "Public",
+      "lang": "English",
+      "lang_key": "120701",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_key": "1353855",
+      "entityids": {
+        "entityid": "34011620"
+      },
+      "docdt": "2023-03-02T00:00:00Z",
+      "datestored": "2023-03-02T02:10:36Z",
+      "majdocty": "Project Documents",
+      "majdocty_key": "658102",
+      "display_title": "Revised  Stakeholder Engagement\n            Plan (SEP) Zanzibar Energy Sector Transformation and Access\n            Project (P169561)",
+      "disclosure_type": "NA",
+      "pdfurl": "http://documents.worldbank.org/curated/en/099141003022356651/pdf/P16956104135d503a0adb90fc57a5a88099.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/099141003022356651/text/P16956104135d503a0adb90fc57a5a88099.txt",
+      "listing_relative_url": "/projects/documents/2023/03/34011620/revised-stakeholder-engagement-plan-sep-zanzibar-energy-sector-transformation-access-project-p169561",
+      "url_friendly_title": "http://documents.worldbank.org/curated/en/099141003022356651/P16956104135d503a0adb90fc57a5a88099",
+      "new_url": "2023/03/34011620/P16956104135d503a0adb90fc57a5a88099",
+      "ext_pub_date": "2023-03-02T00:00:00Z",
+      "disclstat": "Disclosed",
+      "docm_id": "P169561-4135d538-f7f4-413a-adb9-fc57a5a88099",
+      "chronical_docm_id": "P169561-4135d538-f7f4-413a-adb9-fc57a5a88099",
+      "publishtoextweb_dt": "2023-03-02T00:00:00Z",
+      "versiontyp": "Final",
+      "versiontyp_key": "1309935",
+      "projectid": "P169561",
+      "guid": "099141003022356651",
+      "author_keys": {
+        "0": {
+          "author_key": "NA"
+        }
+      },
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/099141003022356651/P16956104135d503a0adb90fc57a5a88099"
+    },
+    "D34011622": {
+      "id": "34011622",
+      "last_modified_date": "2023-03-02T00:00:00Z",
+      "admreg": "Other,Other",
+      "admreg_key": "912972,912972",
+      "authors": {
+        "0": {
+          "author": "World Bank"
+        }
+      },
+      "count": "World",
+      "count_key": "517191",
+      "docna": {
+        "0": {
+          "docna": "World Bank Group Support to Demand-Side\n            Energy Efficiency – An Independent Evaluation"
+        }
+      },
+      "docty": "IEG Evaluation",
+      "docty_key": "1836808",
+      "owner": "IEG, Fin, PS, Infra & SD Eval Un (IEGFS)",
+      "projn": "1W-Demand-Side Energy Efficiency Evaluation\n            -- P174712",
+      "prdln": "Thematic & Sectoral Evaluations",
+      "prdln_key": "639244",
+      "seccl": "Public",
+      "lang": "English",
+      "lang_key": "120701",
+      "entityids": {
+        "entityid": "34011622"
+      },
+      "repnb": "178921",
+      "docdt": "2023-03-02T00:00:00Z",
+      "datestored": "2023-03-02T02:32:42Z",
+      "bdmdt": "2023-02-01T00:00:00Z",
+      "volnb": "1",
+      "majdocty": "Publications & Research",
+      "majdocty_key": "658101",
+      "abstracts": {
+        "cdata!": "Improving energy efficiency—using\n            less energy to do the same amount of work—has both\n            supply-side and demand-side aspects. Improvements in energy\n            efficiency are reductions in the energy required to maintain\n            or improve energy services to households, businesses, and\n            communities. Supply-side energy efficiency approaches target\n            energy generation via grid infrastructure, utilities, and\n            power producers. Demand-side energy efficiency (DSEE)\n            focuses on the energy use of industries, commercial\n            entities, and households. The Bank Group has committed to\n            supporting DSEE which focuses on the energy use of\n            industries, commercial entities, and households. DSEE is\n            critical for energy savings and reducing greenhouse gases in\n            line with the Paris Agreement and relevant sustainable\n            development goals (SDGs) and increasingly for contributing\n            to energy security. This evaluation focuses on the World\n            Bank Group’s approaches to DSEE and opportunities to scale\n            them up, and proposes four near-term actions the Bank Group\n            should take: (i) Intensify DSEE support to middle-income\n            countries (MICs) for decarbonization and wider socioeconomic\n            benefits. (ii) Develop energy efficiency sector-specific\n            approaches in a select group of lower-middle-income\n            countries (LMICs) that seek productivity gains alongside or\n            via DSEE, even if EE policy reforms are in early stages.\n            (iii) Expand DSEE approaches by incorporating reduction of\n            indirect emissions (Scope 3), including embodied and\n            operational carbon, in DSEE project design. (iv) Exploit\n            untapped DSEE opportunities and help clients develop\n            innovative approaches that adapt digital and financial\n            solutions from developed countries."
+      },
+      "colti": "Sector or thematic evaluation",
+      "display_title": "World Bank Group Support to\n            Demand-Side Energy Efficiency – An Independent Evaluation",
+      "disclosure_date": "2023-03-02T00:00:00Z",
+      "disclosure_type": "NA",
+      "pdfurl": "http://documents.worldbank.org/curated/en/099432403022338116/pdf/SECBOS0352c8d90dd0bf8a079a63fc9212b.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/099432403022338116/text/SECBOS0352c8d90dd0bf8a079a63fc9212b.txt",
+      "listing_relative_url": "/research/2023/03/34011622/world-bank-group-support-demand-side-energy-efficiency-–-independent-evaluation",
+      "url_friendly_title": "http://documents.worldbank.org/curated/en/099432403022338116/SECBOS0352c8d90dd0bf8a079a63fc9212b",
+      "new_url": "2023/03/34011622/SECBOS0352c8d90dd0bf8a079a63fc9212b",
+      "ext_pub_date": "2023-03-02T00:00:00Z",
+      "disclstat": "Disclosed",
+      "topicv3": "Energy Efficiency m1326852 533,Energy Efficiency Demand Side: Industry\n            m1503503 2927",
+      "docm_id": "SECBOS-352c8d9a-757d-4add-bf8a-79a63fc9212b",
+      "chronical_docm_id": "SECBOS-352c8d9a-757d-4add-bf8a-79a63fc9212b",
+      "publishtoextweb_dt": "2023-03-02T00:00:00Z",
+      "dois": "10.1596/178921",
+      "versiontyp": "Final",
+      "versiontyp_key": "1309935",
+      "projectid": "P174712",
+      "guid": "099432403022338116",
+      "author_keys": {
+        "0": {
+          "author_key": "NA"
+        }
+      },
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/099432403022338116/SECBOS0352c8d90dd0bf8a079a63fc9212b"
+    },
+    "D34012602": {
+      "id": "34012602",
+      "last_modified_date": "2023-03-02T00:00:00Z",
+      "admreg": "Eastern and Southern Africa,Eastern and Southern Africa",
+      "admreg_key": "1927319,1927319",
+      "authors": {
+        "0": {
+          "author": "Borrowing Agency"
+        }
+      },
+      "count": "Madagascar",
+      "count_key": "82548",
+      "docna": {
+        "0": {
+          "docna": "Environmental and Social Management\n            Framework (ESMF) Digital and Energy Connectivity for\n            Inclusion in Madagascar  (DECIM) (P178701)"
+        }
+      },
+      "docty": "Environmental and Social Management Plan",
+      "docty_key": "1851230",
+      "owner": "Infra AFR Energy 1 (IAEE1)",
+      "projn": "MG-Digital And Energy Connectivity For\n            Inclusion In Madagascar  (D -- P178701",
+      "trustfund": "TF0B8252-Madagascar - Strengthening\n            Resilient Energy Connectivity for Inclusion,TF0C0370-Strengthening the Digital\n            Regulator in Madagascar",
+      "trustfund_key": "2151665,2251212",
+      "prdln": "IBRD/IDA",
+      "prdln_key": "639266",
+      "seccl": "Public",
+      "lang": "French",
+      "lang_key": "120702",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_key": "1353855",
+      "entityids": {
+        "entityid": "34012602"
+      },
+      "docdt": "2023-03-02T00:00:00Z",
+      "datestored": "2023-03-02T05:35:22Z",
+      "majdocty": "Project Documents",
+      "majdocty_key": "658102",
+      "display_title": "Environmental and Social\n            Management Framework (ESMF) Digital and Energy Connectivity\n            for Inclusion in Madagascar  (DECIM) (P178701)",
+      "disclosure_type": "NA",
+      "pdfurl": "http://documents.worldbank.org/curated/en/099173503022336683/pdf/P17870100a0fc40a80861203b09fee14c00.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/099173503022336683/text/P17870100a0fc40a80861203b09fee14c00.txt",
+      "listing_relative_url": "/projects/documents/2023/03/34012602/environmental-social-management-framework-esmf-digital-energy-connectivity-inclusion-madagascar-decim-p178701",
+      "url_friendly_title": "http://documents.worldbank.org/curated/en/099173503022336683/P17870100a0fc40a80861203b09fee14c00",
+      "new_url": "2023/03/34012602/P17870100a0fc40a80861203b09fee14c00",
+      "ext_pub_date": "2023-03-02T00:00:00Z",
+      "disclstat": "Disclosed",
+      "docm_id": "P178701-0a0fc4ab-d6f6-43a8-8612-3b09fee14c00",
+      "chronical_docm_id": "P178701-0a0fc4ab-d6f6-43a8-8612-3b09fee14c00",
+      "publishtoextweb_dt": "2023-03-02T00:00:00Z",
+      "versiontyp": "Final",
+      "versiontyp_key": "1309935",
+      "projectid": "P178701",
+      "guid": "099173503022336683",
+      "origu": "Infra AFR Energy 1 (IAEE1)",
+      "ml_abstracts": "$^$^$french",
+      "author_keys": {
+        "0": {
+          "author_key": "NA"
+        }
+      },
+      "available_in": "French",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/099173503022336683/P17870100a0fc40a80861203b09fee14c00"
+    },
+    "D34012599": {
+      "id": "34012599",
+      "last_modified_date": "2023-03-02T00:00:00Z",
+      "admreg": "Eastern and Southern Africa,Eastern and Southern Africa",
+      "admreg_key": "1927319,1927319",
+      "authors": {
+        "0": {
+          "author": "Borrowing Agency"
+        }
+      },
+      "count": "Madagascar",
+      "count_key": "82548",
+      "docna": {
+        "0": {
+          "docna": "Stakeholder Engagement Plan (SEP) Digital\n            and Energy Connectivity for Inclusion in Madagascar  (DECIM) (P178701)"
+        }
+      },
+      "docty": "Stakeholder Engagement Plan",
+      "docty_key": "1747035",
+      "owner": "Infra AFR Energy 1 (IAEE1)",
+      "projn": "MG-Digital And Energy Connectivity For\n            Inclusion In Madagascar  (D -- P178701",
+      "trustfund": "TF0B8252-Madagascar - Strengthening\n            Resilient Energy Connectivity for Inclusion,TF0C0370-Strengthening the Digital\n            Regulator in Madagascar",
+      "trustfund_key": "2151665,2251212",
+      "prdln": "IBRD/IDA",
+      "prdln_key": "639266",
+      "seccl": "Public",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_key": "1353855",
+      "entityids": {
+        "entityid": "34012599"
+      },
+      "docdt": "2023-03-02T00:00:00Z",
+      "datestored": "2023-03-02T05:40:35Z",
+      "majdocty": "Project Documents",
+      "majdocty_key": "658102",
+      "display_title": "Stakeholder Engagement Plan (SEP)\n            Digital and Energy Connectivity for Inclusion in Madagascar\n            (DECIM) (P178701)",
+      "disclosure_type": "NA",
+      "pdfurl": "http://documents.worldbank.org/curated/en/099174003022394629/pdf/P1787010c4d4450e0a47d059f0fd174ed2.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/099174003022394629/text/P1787010c4d4450e0a47d059f0fd174ed2.txt",
+      "listing_relative_url": "/projects/documents/2023/03/34012599/stakeholder-engagement-plan-sep-digital-energy-connectivity-inclusion-madagascar-decim-p178701",
+      "url_friendly_title": "http://documents.worldbank.org/curated/en/099174003022394629/P1787010c4d4450e0a47d059f0fd174ed2",
+      "new_url": "2023/03/34012599/P1787010c4d4450e0a47d059f0fd174ed2",
+      "ext_pub_date": "2023-03-02T00:00:00Z",
+      "disclstat": "Disclosed",
+      "docm_id": "P178701-c4d445ad-48fc-4f2e-a47d-59f0fd174ed2",
+      "chronical_docm_id": "P178701-c4d445ad-48fc-4f2e-a47d-59f0fd174ed2",
+      "publishtoextweb_dt": "2023-03-02T00:00:00Z",
+      "versiontyp": "Final",
+      "versiontyp_key": "1309935",
+      "projectid": "P178701",
+      "guid": "099174003022394629",
+      "origu": "Infra AFR Energy 1 (IAEE1)",
+      "author_keys": {
+        "0": {
+          "author_key": "NA"
+        }
+      },
+      "available_in": "",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/099174003022394629/P1787010c4d4450e0a47d059f0fd174ed2"
+    },
+    "D34012600": {
+      "id": "34012600",
+      "last_modified_date": "2023-03-02T00:00:00Z",
+      "admreg": "Eastern and Southern Africa,Eastern and Southern Africa",
+      "admreg_key": "1927319,1927319",
+      "authors": {
+        "0": {
+          "author": "Borrowing Agency"
+        }
+      },
+      "count": "Madagascar",
+      "count_key": "82548",
+      "docna": {
+        "0": {
+          "docna": "Gender-Based Violence (GBV) Assessment\n            Digital and Energy Connectivity for Inclusion in Madagascar\n            (DECIM) (P178701)"
+        }
+      },
+      "docty": "Environmental and Social Assessment,Social Assessment",
+      "docty_key": "1847610,540681",
+      "owner": "Infra AFR Energy 1 (IAEE1)",
+      "projn": "MG-Digital And Energy Connectivity For\n            Inclusion In Madagascar  (D -- P178701",
+      "trustfund": "TF0B8252-Madagascar - Strengthening\n            Resilient Energy Connectivity for Inclusion,TF0C0370-Strengthening the Digital\n            Regulator in Madagascar",
+      "trustfund_key": "2151665,2251212",
+      "prdln": "IBRD/IDA",
+      "prdln_key": "639266",
+      "seccl": "Public",
+      "lang": "French",
+      "lang_key": "120702",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_key": "1353855",
+      "entityids": {
+        "entityid": "34012600"
+      },
+      "docdt": "2023-03-02T00:00:00Z",
+      "datestored": "2023-03-02T05:35:29Z",
+      "majdocty": "Project Documents",
+      "majdocty_key": "658102",
+      "display_title": "Gender-Based Violence (GBV)\n            Assessment Digital and Energy Connectivity for Inclusion in\n            Madagascar  (DECIM) (P178701)",
+      "disclosure_type": "NA",
+      "pdfurl": "http://documents.worldbank.org/curated/en/099173503022378911/pdf/P17870103c133e0e088d7046190fe3d146.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/099173503022378911/text/P17870103c133e0e088d7046190fe3d146.txt",
+      "listing_relative_url": "/projects/documents/2023/03/34012600/gender-based-violence-gbv-assessment-digital-energy-connectivity-inclusion-madagascar-decim-p178701",
+      "url_friendly_title": "http://documents.worldbank.org/curated/en/099173503022378911/P17870103c133e0e088d7046190fe3d146",
+      "new_url": "2023/03/34012600/P17870103c133e0e088d7046190fe3d146",
+      "ext_pub_date": "2023-03-02T00:00:00Z",
+      "disclstat": "Disclosed",
+      "docm_id": "P178701-3c133e41-667e-47ee-88d7-46190fe3d146",
+      "chronical_docm_id": "P178701-3c133e41-667e-47ee-88d7-46190fe3d146",
+      "publishtoextweb_dt": "2023-03-02T00:00:00Z",
+      "versiontyp": "Final",
+      "versiontyp_key": "1309935",
+      "projectid": "P178701",
+      "guid": "099173503022378911",
+      "origu": "Infra AFR Energy 1 (IAEE1)",
+      "ml_abstracts": "$^$^$french",
+      "author_keys": {
+        "0": {
+          "author_key": "NA"
+        }
+      },
+      "available_in": "French",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/099173503022378911/P17870103c133e0e088d7046190fe3d146"
+    },
+    "D34012596": {
+      "id": "34012596",
+      "last_modified_date": "2023-03-02T00:00:00Z",
+      "admreg": "Eastern and Southern Africa,Eastern and Southern Africa",
+      "admreg_key": "1927319,1927319",
+      "authors": {
+        "0": {
+          "author": "Borrowing Agency"
+        }
+      },
+      "count": "Madagascar",
+      "count_key": "82548",
+      "docna": {
+        "0": {
+          "docna": "Labor Management Procedures Digital and\n            Energy Connectivity for Inclusion in Madagascar  (DECIM) (P178701)"
+        }
+      },
+      "docty": "Procedure and Checklist",
+      "docty_key": "1747037",
+      "owner": "Infra AFR Energy 1 (IAEE1)",
+      "projn": "MG-Digital And Energy Connectivity For\n            Inclusion In Madagascar  (D -- P178701",
+      "trustfund": "TF0B8252-Madagascar - Strengthening\n            Resilient Energy Connectivity for Inclusion,TF0C0370-Strengthening the Digital\n            Regulator in Madagascar",
+      "trustfund_key": "2151665,2251212",
+      "prdln": "IBRD/IDA",
+      "prdln_key": "639266",
+      "seccl": "Public",
+      "lang": "French",
+      "lang_key": "120702",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_key": "1353855",
+      "entityids": {
+        "entityid": "34012596"
+      },
+      "docdt": "2023-03-02T00:00:00Z",
+      "datestored": "2023-03-02T05:40:12Z",
+      "majdocty": "Publications & Research",
+      "majdocty_key": "658101",
+      "display_title": "Labor Management Procedures\n            Digital and Energy Connectivity for Inclusion in Madagascar\n            (DECIM) (P178701)",
+      "disclosure_type": "NA",
+      "pdfurl": "http://documents.worldbank.org/curated/en/099174003022326557/pdf/P1787010d5b1ce0e0ba6d07e571a13c05e.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/099174003022326557/text/P1787010d5b1ce0e0ba6d07e571a13c05e.txt",
+      "listing_relative_url": "/research/2023/03/34012596/labor-management-procedures-digital-energy-connectivity-inclusion-madagascar-decim-p178701",
+      "url_friendly_title": "http://documents.worldbank.org/curated/en/099174003022326557/P1787010d5b1ce0e0ba6d07e571a13c05e",
+      "new_url": "2023/03/34012596/P1787010d5b1ce0e0ba6d07e571a13c05e",
+      "ext_pub_date": "2023-03-02T00:00:00Z",
+      "disclstat": "Disclosed",
+      "docm_id": "P178701-d5b1ce0e-4cfd-461e-ba6d-7e571a13c05e",
+      "chronical_docm_id": "P178701-d5b1ce0e-4cfd-461e-ba6d-7e571a13c05e",
+      "publishtoextweb_dt": "2023-03-02T00:00:00Z",
+      "versiontyp": "Final",
+      "versiontyp_key": "1309935",
+      "projectid": "P178701",
+      "guid": "099174003022326557",
+      "origu": "Infra AFR Energy 1 (IAEE1)",
+      "ml_abstracts": "$^$^$french",
+      "author_keys": {
+        "0": {
+          "author_key": "NA"
+        }
+      },
+      "available_in": "French",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/099174003022326557/P1787010d5b1ce0e0ba6d07e571a13c05e"
+    },
+    "D34012681": {
+      "id": "34012681",
+      "last_modified_date": "2023-03-02T00:00:00Z",
+      "admreg": "Eastern and Southern Africa,Eastern and Southern Africa",
+      "admreg_key": "1927319,1927319",
+      "authors": {
+        "0": {
+          "author": "Taobane,Nadia"
+        }
+      },
+      "count": "Namibia",
+      "count_key": "82528",
+      "docna": {
+        "0": {
+          "docna": "Concept Project Information Document (PID) -\n            Namibia: Transmission Expansion and Energy Storage - P177328"
+        }
+      },
+      "docty": "Project Information Document",
+      "docty_key": "540659",
+      "owner": "Infra AFR Energy 3 (IAEE3)",
+      "projn": "NA-Namibia: Transmission Expansion And\n            Energy Storage -- P177328",
+      "prdln": "IBRD/IDA",
+      "prdln_key": "639266",
+      "seccl": "Public",
+      "lang": "English",
+      "lang_key": "120701",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_key": "1353855",
+      "entityids": {
+        "entityid": "34012681"
+      },
+      "repnb": "PIDC32704",
+      "docdt": "2023-03-02T00:00:00Z",
+      "datestored": "2023-03-02T06:35:12Z",
+      "majdocty": "Project Documents",
+      "majdocty_key": "658102",
+      "display_title": "Concept Project Information\n            Document (PID) - Namibia: Transmission Expansion and Energy\n            Storage - P177328",
+      "disclosure_type": "NA",
+      "pdfurl": "http://documents.worldbank.org/curated/en/099183503022339451/pdf/P1773280b293570f0a9b705c86d66aacfe.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/099183503022339451/text/P1773280b293570f0a9b705c86d66aacfe.txt",
+      "listing_relative_url": "/projects/documents/2023/03/34012681/concept-project-information-document-pid-namibia-transmission-expansion-energy-storage-p177328",
+      "url_friendly_title": "http://documents.worldbank.org/curated/en/099183503022339451/P1773280b293570f0a9b705c86d66aacfe",
+      "new_url": "2023/03/34012681/P1773280b293570f0a9b705c86d66aacfe",
+      "ext_pub_date": "2023-03-02T00:00:00Z",
+      "disclstat": "Disclosed",
+      "docm_id": "P177328-b2935731-d5d1-469f-a9b7-5c86d66aacfe",
+      "chronical_docm_id": "P177328-b2935731-d5d1-469f-a9b7-5c86d66aacfe",
+      "publishtoextweb_dt": "2023-03-02T00:00:00Z",
+      "versiontyp": "Final",
+      "versiontyp_key": "1309935",
+      "projectid": "P177328",
+      "guid": "099183503022339451",
+      "author_keys": {
+        "0": {
+          "author_key": "1636814"
+        }
+      },
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/099183503022339451/P1773280b293570f0a9b705c86d66aacfe"
+    },
+    "facets": {}
+  }
+}

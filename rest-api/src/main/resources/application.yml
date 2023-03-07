@@ -1,0 +1,16 @@
+spring:
+    servlet:
+        multipart:
+            enabled: true
+            max-file-size: -1
+            max-request-size: -1
+
+server:
+  port: 7000
+
+management:
+  server:
+    port: 7100
+
+springdoc:
+    use-management-port: true

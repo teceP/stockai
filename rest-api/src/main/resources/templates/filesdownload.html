@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html xmlns:th="https://www.thymeleaf.org">
+<div id="main-container">
+    <h3 class="text-info">Title</h3>
+    <ul>
+        <li th:if="${files.empty}">
+            <td colspan="1"> No Files available</td>
+        </li>
+        <li th:each="file : ${files}">
+            <form action="#" th:action="@{'/api/filedownload/{filename}'(filename=${file})}" th:method="get">
+                <button type="submit" class="btn" th:text="${file}"/>
+            </form>
+        </li>
+    </ul>
+</div>

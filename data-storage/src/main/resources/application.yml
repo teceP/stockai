@@ -1,0 +1,43 @@
+server:
+  port: 9000
+
+management.server.port: 9100
+management.endpoint.health.group.custom.show-components: always
+management.endpoint.health.group.custom.show-details: always
+management.endpoints.web.exposure.include: health,beans,conditions,auditevents,env,flyway,heapdumps,info,liquibase,logfile,loggers,metrics,prometheus,scheduledtasks,sessions,threaddump
+
+springdoc:
+  use-management-port: true
+
+stockai:
+  datastorage:
+    host: "localhost"
+    port: "9000"
+    actuatorHost: "localhost"
+    actuatorPort: "9100"
+  informationfetcher:
+    host: "localhost"
+    port: "8000"
+    actuatorHost: "localhost"
+    actuatorPort: "8100"
+
+spring:
+  jpa:
+    properties:
+      hibernate:
+        #dialect: org.hibernate.PostgreSQLDialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  datasource:
+    url: "jdbc:postgresql://localhost:5432/postgres"
+    username: "postgres"
+    password: "admin"
+    hikari:
+      schema: "stockai"
+  flyway:
+    url: "jdbc:postgresql://localhost:5432/postgres"
+    user: "postgres"
+    password: "admin"
+    schemas:
+      - "stockai"

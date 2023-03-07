@@ -1,0 +1,25 @@
+logging:
+  level:
+    root: info
+
+server:
+  port: 8000
+
+management:
+  server:
+    port: 8100
+
+springdoc:
+  use-management-port: true
+
+stockai:
+  datastorage:
+    host: "http://localhost"
+    port: "9000"
+    actuatorHost: "http://localhost"
+    actuatorPort: "9100"
+  informationfetcher:
+    host: "http://localhost"
+    port: "8000"
+    actuatorHost: "http://localhost"
+    actuatorPort: "8100"

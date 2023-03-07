@@ -1,0 +1,5 @@
+fetched-informations
+.idea
+**/target
+**/.mvn
+rest-api/uploads
