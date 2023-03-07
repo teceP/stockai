@@ -4,7 +4,9 @@ import de.mtech.ai.FetchedInformation;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
 
-
+/**
+ * Offers endpoints for FetchedInformation objects, which will be stored. [where: Filesystem or Database]
+ */
 @RestController
 @RequestMapping("api")
 public class DataStorageController {
