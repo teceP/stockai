@@ -1,4 +1,4 @@
-package de.mtech.ai;
+package de.mtech.ai.model;
 
 
 import lombok.AllArgsConstructor;

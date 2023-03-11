@@ -17,20 +17,21 @@
         <maven.compiler.source>19</maven.compiler.source>
         <maven.compiler.target>19</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <start-class>de.mtech.ai.DataStorageApplication</start-class>
+        <start-class>de.mtech.ai.datastorage.DataStorageApplication</start-class>
+        <liquibase.version>4.19.1</liquibase.version>
     </properties>
 
     <dependencies>
         <dependency>
             <groupId>de.mtech.ai</groupId>
             <artifactId>model</artifactId>
-            <version>${version}</version>
+            <version>${project.version}</version>
         </dependency>
 
         <dependency>
             <groupId>de.mtech.ai</groupId>
             <artifactId>finals</artifactId>
-            <version>${version}</version>
+            <version>${project.version}</version>
         </dependency>
 
         <dependency>
@@ -50,9 +51,9 @@
         </dependency>
 
         <dependency>
-            <groupId>org.flywaydb</groupId>
-            <artifactId>flyway-core</artifactId>
-            <version>9.15.0</version>
+            <groupId>org.liquibase</groupId>
+            <artifactId>liquibase-core</artifactId>
+            <version>${liquibase.version}</version>
         </dependency>
 
         <dependency>
@@ -63,7 +64,7 @@
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>42.2.12</version>
+            <version>42.5.4</version>
         </dependency>
 
         <dependency>
@@ -71,6 +72,7 @@
             <artifactId>hibernate-validator</artifactId>
             <version>8.0.0.Final</version>
         </dependency>
+
     </dependencies>
 
     <build>
@@ -80,17 +82,32 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
             <plugin>
-                <groupId>org.flywaydb</groupId>
-                <artifactId>flyway-maven-plugin</artifactId>
-                <version>9.15.0</version>
+                <groupId>org.liquibase</groupId>
+                <artifactId>liquibase-maven-plugin</artifactId>
+                <version>${liquibase.version}</version>
                 <configuration>
-                    <url>jdbc:postgresql://localhost:5432/postgres</url>
-                    <user>postgres</user>
-                    <password>admin</password>
-                    <locations>
-                        <location>classpath:db/migration</location>
-                    </locations>
+                    <propertyFile>src/main/resources/liquibase.properties</propertyFile>
                 </configuration>
+                <dependencies>
+                    <dependency>
+                        <groupId>org.liquibase.ext</groupId>
+                        <artifactId>liquibase-hibernate5</artifactId>
+                        <version>3.6</version>
+                        <scope>runtime</scope>
+                    </dependency>
+                   <dependency>
+                        <groupId>org.springframework.boot</groupId>
+                        <artifactId>spring-boot-starter-data-jpa</artifactId>
+                        <version>3.0.3</version>
+                    </dependency>
+                    <dependency>
+                        <groupId>javax.validation</groupId>
+                        <artifactId>validation-api</artifactId>
+                        <version>2.0.1.Final</version>
+                    </dependency>
+                    <!--  -->
+
+                </dependencies>
             </plugin>
         </plugins>
     </build>

@@ -1,6 +1,6 @@
 package de.mtech.ai.crawler;
 
-import de.mtech.ai.FetchedInformation;
+import de.mtech.ai.model.FetchedInformation;
 
 import java.util.List;
 

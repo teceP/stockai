@@ -24,13 +24,14 @@
         <dependency>
             <groupId>de.mtech.ai</groupId>
             <artifactId>model</artifactId>
-            <version>${version}</version>
+            <version>${project.version}</version>
+
         </dependency>
 
         <dependency>
             <groupId>de.mtech.ai</groupId>
             <artifactId>finals</artifactId>
-            <version>${version}</version>
+            <version>${project.version}</version>
         </dependency>
 
         <dependency>

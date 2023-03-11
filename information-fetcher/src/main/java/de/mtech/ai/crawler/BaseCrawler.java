@@ -1,7 +1,7 @@
 package de.mtech.ai.crawler;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import de.mtech.ai.FetchedInformation;
+import de.mtech.ai.model.FetchedInformation;
 import org.apache.commons.io.IOUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

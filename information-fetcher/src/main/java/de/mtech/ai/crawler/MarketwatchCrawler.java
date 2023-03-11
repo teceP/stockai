@@ -1,9 +1,8 @@
 package de.mtech.ai.crawler;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
 import com.gargoylesoftware.htmlunit.WebClient;
 import com.gargoylesoftware.htmlunit.html.*;
-import de.mtech.ai.FetchedInformation;
+import de.mtech.ai.model.FetchedInformation;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

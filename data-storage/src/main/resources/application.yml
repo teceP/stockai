@@ -23,6 +23,7 @@ stockai:
 
 spring:
   jpa:
+    generate-ddl: true
     properties:
       hibernate:
         #dialect: org.hibernate.PostgreSQLDialect
@@ -35,9 +36,15 @@ spring:
     password: "admin"
     hikari:
       schema: "stockai"
-  flyway:
-    url: "jdbc:postgresql://localhost:5432/postgres"
-    user: "postgres"
-    password: "admin"
-    schemas:
-      - "stockai"
+  liquibase:
+    change-log: "classpath:database/migration/master.xml"
+  #flyway:
+  #  url: "jdbc:postgresql://localhost:5432/postgres"
+  #  user: "postgres"
+  #  password: "admin"
+  #  schemas:
+  #    - "stockai"
+
+logging:
+  level:
+    root: info

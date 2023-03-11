@@ -1,29 +1,30 @@
-package de.mtech.ai;
+package de.mtech.ai.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
+import jakarta.persistence.Lob;
+import jakarta.persistence.PrimaryKeyJoinColumn;
 import lombok.*;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
-import javax.persistence.Table;
-import java.text.SimpleDateFormat;
-import java.util.Date;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
 
+@Entity
+@Table(name = "fetched_information")
+@PrimaryKeyJoinColumn(name = "fetched_information_id")
 @EqualsAndHashCode(callSuper = true)
 @AllArgsConstructor
+@NoArgsConstructor
 @Getter
 @Setter
 @Data
-@Entity
 @ToString(callSuper = true)
-@Table(name = "fetched_informations")
 public class FetchedInformation extends BaseFetchedInformation {
 
     @JsonProperty("headline")
     private String headline;
 
     @ToString.Exclude
+    @Lob
     @JsonProperty("text")
     private String text;
 
