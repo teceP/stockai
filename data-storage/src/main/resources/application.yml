@@ -24,9 +24,6 @@ stockai:
 spring:
   jpa:
     generate-ddl: true
-    properties:
-      hibernate:
-        #dialect: org.hibernate.PostgreSQLDialect
     hibernate:
       ddl-auto: update
     show-sql: true
@@ -47,4 +44,4 @@ spring:
 
 logging:
   level:
-    root: info
+    sql: debug

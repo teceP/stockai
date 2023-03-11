@@ -53,8 +53,8 @@ public class MarketwatchCrawler extends BaseCrawler {
                     paragraphs.stream().map(HtmlParagraph::getTextContent).forEach(textStringBuilder::append);
                     logger.trace(textStringBuilder.toString());
 
-                    final String headline = articleHeadline.getTextContent();
-                    final String text = textStringBuilder.toString();
+                    final String headline = articleHeadline.getTextContent().trim();
+                    final String text = textStringBuilder.toString().trim();
                     if (headline != null && !headline.isEmpty() && text != null && !text.isEmpty()) {
                         fetchedInformations.add(new FetchedInformation(headline, text, System.currentTimeMillis()));
                         logger.info(CollectionUtils.lastElement(fetchedInformations).toString());
