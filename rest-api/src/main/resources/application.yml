@@ -6,11 +6,12 @@ spring:
             max-request-size: -1
 
 server:
-  port: 7000
+  port: 10000
 
-management:
-  server:
-    port: 7100
+management.server.port: 10100
+management.endpoint.health.group.custom.show-components: always
+management.endpoint.health.group.custom.show-details: always
+management.endpoints.web.exposure.include: health,beans,conditions,auditevents,env,flyway,heapdumps,info,liquibase,logfile,loggers,metrics,prometheus,scheduledtasks,sessions,threaddump
 
 springdoc:
     use-management-port: true

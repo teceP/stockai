@@ -1,0 +1,36 @@
+version: "3.8"
+
+networks:
+  monitoring:
+    name: "monitoring"
+
+services:
+  prometheus:
+    networks:
+      - "monitoring"
+    build: prometheus
+    restart: always
+    volumes:
+      - "./persistence/prometheus:/prometheus/data"
+    ports:
+      - 9090:9090
+    command: ["--config.file=/etc/prometheus/prometheus.yml"]
+
+  # Import JVM Micrometer Dashboard with ID 4701
+  grafana:
+    networks:
+      - "monitoring"
+    build: grafana
+    restart: always
+    volumes:
+      - "./persistence/grafana:/var/lib/grafana"
+    ports:
+      - 3000:3000
+
+  psql-datastorage:
+    build: psql
+    restart: always
+    volumes:
+      - "./persistence/psql:/bitnami/postgresql"
+    ports:
+      - 5432:5432

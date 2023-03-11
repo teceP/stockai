@@ -3,3 +3,5 @@ fetched-informations
 **/target
 **/.mvn
 rest-api/uploads
+
+docker/persistence/**/**
